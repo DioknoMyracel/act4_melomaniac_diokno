@@ -14,16 +14,16 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> MELOPHILE STATION </a>
+                <a class="navbar-brand" href="index.php#page-top"> MELOPHILE STATION </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="indexto.php">Heaven Knows</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">I'd Rather</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Driver's License</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">This City</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song4.php">214</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Heaven By Your Side</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Heaven Knows</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">I'd Rather</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Driver's License</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">This City</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">214</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song6.php">Heaven By Your Side</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,72 +44,61 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>I'd Rather</h2>";
-                        echo "<p class='lead '>Luther Vandross</p>";
+                        echo "<h2 class='text-primary'>Heaven Knows</h2>";
+                        echo "<p class='lead '>Rick  Price</p>";
                         echo "<p> [Intro] </p>";
-                        echo "<p>I thought sometime alone</p>";
-                        echo "<p>Was what we really needed</p>";
-                        echo "<p>You said this time would hurt more than it helps</p>";
-                        echo " <p>But I couldn't see that</p>";
-                        echo " <p>I thought it was the end</p>";
-                        echo " <p>Of a beautiful story</p>";
-                        echo " <p>And so I left the one I love at home to be alone (alone)</p>";
-                        echo " <p>And I tried to find</p>";
-                        echo " <p>Out if this one thing is true</p>";
-                        echo " <p>That I'm nothing without you</p>";
-                        echo " <p>I know better now</p>";
-                        echo " <p> And I've had the change of heart</p>";
+                        echo "<p>She's always on my mind</p>";
+                        echo "<p>From the time I awake up,</p>";
+                        echo "<p>'till I close my eyes</p>";
+                        echo " <p>She's everywhere I go</p>";
+                        echo " <p>She's all I know</p>";
+                        echo " <p> And though she's so far away</p>";
+                        echo " <p>It just keeps gettin' stronger everyday</p>";
+                        echo " <p> And even now she's gone</p>";
+                        echo " <p>I'm still holding on</p>";
+                        echo " <p>so tell me where do I start</p>";
+                        echo " <p> 'Cause it's breakin' my heart</p>";
+                        echo " <p> Don't wanna let her go</p>";
                         echo " <p> [Chorus]</p>";
-                        echo " <p> I'd rather have bad time with you</p>";
-                        echo " <p>Than good times with someone else</p>";
-                        echo " <p>I'd rather be beside you in a storm </p>";
-                        echo " <p> Than safe and sound by myself</p>";
-                        echo " <p> I'd rather have hard times together</p>";
-                        echo " <p> Than to have it easy apart</p>";
-                        echo " <p> I'd rather have the one who holds my heart</p>";
-                        echo " <p> Whoo-oo-oo-oo yeah</p>";
+                        echo " <p> Maybe my love will come back someday</p>";
+                        echo " <p>Only heaven knows</p>";
+                        echo " <p>And maybe our hearts will find a way </p>";
+                        echo " <p> Only heaven knows</p>";
+                        echo " <p> And all I can do is hope  and pray</p>";
+                        echo " <p> 'Cause heaven knows</p>";
                         echo " <p> [Verse]</p>";
-                        echo " <p> And then I met someone</p>";
-                        echo " <p> And thought she could replace you</p>";
-                        echo " <p> We got along just fine</p>";
-                        echo " <p> We wasted time, because she was not you</p>";
-                        echo " <p> We got alot of fun</p>";
-                        echo " <p> Though we knew we were faking </p>";
-                        echo " <p> Love was not impressed with our connection they were all lies, all lies</p>";
-                        echo " <p> So I'm here cause I found this one thing is true</p>";
-                        echo " <p> That I'm nothing withot  you </p>";
-                        echo " <p> i know  better now</p>";
-                        echo " <p> and I've had a change of hearts</p>";
+                        echo " <p> My friends  keep telling me</p>";
+                        echo " <p> That if ypu really love her</p>";
+                        echo " <p> You've gotta set her free</p>";
+                        echo " <p> And if she returns in kind</p>";
+                        echo " <p> I know she's mine</p>";
+                        echo " <p> But tell me  where do I start </p>";
+                        echo " <p> 'Cause its breaking my heart</p>";
+                        echo " <p> Don't wanna let her go</p>";
                         echo " <p> [Chorus]</p>";
-                        echo " <p> I'd rather have bad time with you</p>";
-                        echo " <p>Than good times with someone else</p>";
-                        echo " <p>I'd rather be beside you in a storm </p>";
-                        echo " <p> Than safe and sound by myself</p>";
-                        echo " <p> I'd rather have hard times together</p>";
-                        echo " <p> Than to have it easy apart</p>";
-                        echo " <p> I'd rather have the one who holds my heart</p>";
+                        echo " <p> Maybe my love will come back someday</p>";
+                        echo " <p>Only heaven knows</p>";
+                        echo " <p>And maybe our hearts will find a way </p>";
+                        echo " <p> Only heaven knows</p>";
+                        echo " <p> And all I can do is hope  and pray</p>";
+                        echo " <p> 'Cause heaven knows</p>";
                         echo " <p> [Verse]</p>";
-                        echo " <p> I can't blame you if you turn away from me, like I've done you,</p>";
-                        echo " <p>I can only prove the things I say with time,</p>";
-                        echo " <p>Please be mine</p>";
-                        echo " <p> [Chorus]</p>";
-                        echo " <p> I'd rather have bad time with(please be mine) you</p>";
-                        echo " <p>Than good times with someone else(I know)</p>";
-                        echo " <p>I'd rather be beside you in a storm(anytime) </p>";
-                        echo " <p> Than safe and sound by myself(so sure baby)</p>";
-                        echo " <p> I'd rather have hard times together</p>";
-                        echo " <p> Than to have it easy apart</p>";
-                        echo " <p> I'd rather have the one who holds my heart(my heart)</p>";
-                        echo " <p> I'd rather have bad time with you(surely)</p>";
-                        echo " <p>Than good times with someone else(surely)</p>";
-                        echo " <p>I'd rather be beside you in a storm (oh  yeah)</p>";
-                        echo " <p> Than safe and sound by myself(all by myself)</p>";
-                        echo " <p> I'd rather have hard times together</p>";
-                        echo " <p> Than to have it easy apart(you know it)</p>";
-                        echo " <p> I'd rather have the one who holds my heart</p>";
-                        echo " <p> I'd rather have the one who holds my heart</p>";
-                        echo " <p> I'd rather have the one who holds my heart</p>";
-                        echo " <p> whoooo.....who holds my heart</p>";
+                        echo " <p> Why I live in despair</p>";
+                        echo " <p> 'Cause wide  awake or dreaming</p>";
+                        echo " <p> I know she's  never there</p>";
+                        echo " <p> And all the time I act so brave </p>";
+                        echo " <p> I'm shakin' inside</p>";
+                        echo " <p> Why does it hurt me so</p>";
+                         echo " <p> [Chorus]</p>";
+                        echo " <p> Maybe my love will come back someday</p>";
+                        echo " <p>Only heaven knows</p>";
+                        echo " <p>And maybe our hearts will find a way </p>";
+                        echo " <p> Only heaven knows</p>";
+                        echo " <p> And all I can do is hope  and pray</p>";
+                        echo " <p> 'Cause heaven knows</p>";
+                        echo " <p> Heaven knows</p>";
+                        echo " <p> Heaven knows<p>";
+                        echo " <p> </p>";
                         echo " <p> </p>";
                         echo " <p> </p>";
                         echo " <p> </p>";
