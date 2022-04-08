@@ -23,7 +23,7 @@
                         <li class="nav-item"><a class="nav-link text-light" href="song3.php">Driver's License</a></li>
                          <li class="nav-item"><a class="nav-link text-light" href="song4.php">This City</a></li>
                           <li class="nav-item"><a class="nav-link text-light" href="song5.php">214</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="song.php">Heaven By Your Side</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song6.php">Heaven By Your Side</a></li>
                     </ul>
                 </div>
             </div>
@@ -31,7 +31,7 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h19v class="fw-bolder">Welcome to Melophile Station</h1>
+                <h1 class="fw-bolder">Welcome to Melophile Station</h1>
                 <p class="lead">Did you know?? MELOPHILE is the term for those who love music? If you are one of them, then this page is for you. Enjoy! :)</p>
                 
             </div>
